@@ -3,3 +3,4 @@
 3. Call or order online
 4. Make payment
 5. Pickup Pizza
+6. Leave the business a review
